@@ -6,6 +6,10 @@ I'm an undergraduate student at the university of Calgary, Canada.
 
 I'm also working as an intern at the IT department of Alberta Health Services.
 
+My journey:
+
+Shenzhen FLS -> Dalian U of T -> UCalgary
+
 My hobbies: 
 
 - Watching sitcoms (HIMYM, The IT Crowd, Friends, TBBT, etc.)
