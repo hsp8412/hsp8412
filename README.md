@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is He() Sipeng(). The first part is my family name, and the second part is my first name.
+My name is He(何) Sipeng(斯鹏). The first part is my family name, and the second part is my first name.
 
 I'm an undergraduate student at the university of Calgary, Canada.
 
