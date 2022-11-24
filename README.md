@@ -23,7 +23,10 @@ What I'm working on recently:
 - Learning Blue Prism
 - Learning C#/Asp.net mvc/Razor Pages (A lot of fun!)
 - Leetcode (Painful and enjoyable at the same time)
-- Trying to hit the gym 5 times a week
+- Trying to hit the gym 3 times a week
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsp8412&layout=compact&hide=css,assembly)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **hsp8412/hsp8412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
