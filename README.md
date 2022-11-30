@@ -25,7 +25,7 @@ What I'm working on recently:
 - Leetcode (Painful and enjoyable at the same time)
 - Trying to hit the gym 3 times a week
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsp8412&layout=compact&hide=css,assembly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsp8412&layout=compact&hide=css,assembly&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
