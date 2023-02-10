@@ -21,7 +21,7 @@ My hobbies:
 What I'm working on recently:
 
 - Learning Blue Prism
-- Learning C#/Asp.net mvc/Razor Pages (A lot of fun!)
+- Learning GraphQL and Next.js
 - Leetcode (Painful and enjoyable at the same time)
 - Trying to hit the gym 3 times a week
 
