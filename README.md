@@ -15,7 +15,6 @@ My hobbies:
 - Watching sitcoms (HIMYM, The IT Crowd, Friends, TBBT, etc.)
 - Hiking (That's why I love Calgary and Alberta!)
 - Traveling (Taking a trip around the world is my dream)
-- News and International Politics (I can talk about them for a whole day)
 - Postcrossing! (Please contact me if you are also a postcrosser)
 
 What I'm working on recently:
