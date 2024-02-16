@@ -1,26 +1,26 @@
 ### Hi there 👋
 
-My name is He(何) Sipeng(斯鹏). The first part is my family name, and the second part is my first name.
+My name is He(何) Sipeng(斯鹏). "Sipeng" is my first name, and "He" is my family name. 
 
-I'm an undergraduate student at the university of Calgary, Canada.
+I'm an undergraduate student at the university of Calgary, Canada. 
 
 My journey:
 
-Shenzhen FLS -> Dalian U of T -> UCalgary
+SFLS -> DUT -> UCalgary
 
 My hobbies: 
 
-- Ukelele (strumming & singing)
-- Watching sitcoms (HIMYM, The IT Crowd, Friends, TBBT, Modern Family)
+- Ukulele
+- Sitcoms (HIMYM, The IT Crowd, Friends, TBBT, Modern Family, etc.)
 - Hiking (Banff!)
-- Traveling (Taking a trip around the world is my dream)
+- Traveling (My life goal: taking a trip around the world)
 - Postcrossing! (Please contact me if you are also a postcrosser)
 
 What I'm working on recently:
 
-- Learning GraphQL and Next.js
-- Leetcode (So much pain)
-- Trying to hit the gym 3 times a week
+- Learn Angular, ASP.NET core and AWS.
+- Leetcode (so much pain)
+- Try my best to go to the gym at least one time a week
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsp8412&layout=compact&hide=css,assembly&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
