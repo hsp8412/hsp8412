@@ -16,9 +16,10 @@ My hobbies:
 - Traveling (My life goal: taking a trip around the world)
 - Postcrossing! (Please contact me if you are also a postcrosser)
 
-What I'm working on recently:
+What I have been working on recently:
 
-- Learn Angular, ASP.NET core and AWS.
+- Learn Docker, kubernetes, AWS, Swift...
+- Learn French (when passion becomes a must...)
 - Leetcode (so much pain)
 - Try my best to go to the gym at least one time a week
 
