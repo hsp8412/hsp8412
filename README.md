@@ -1,28 +1,22 @@
 ### Hi there 👋
 
-My name is He(何) Sipeng(斯鹏). "Sipeng" is my first name, and "He" is my family name. 
+My name is He(何) Sipeng(斯鹏), or Steven.
 
-I'm an undergraduate student at the university of Calgary, Canada. 
+I'm a recent graduate from the University of Calgary, and I'm now looking for a full-time position as programmer or IT specialist.
 
-My journey:
+Things I'm passionate about:
 
-SFLS -> DUT -> UCalgary
-
-My hobbies: 
-
-- Ukulele
-- Sitcoms (HIMYM, The IT Crowd, Friends, TBBT, Modern Family, etc.)
-- Hiking (Banff!)
-- Traveling (My life goal: taking a trip around the world)
-- Postcrossing! (Please contact me if you are also a postcrosser)
-
-What I have been working on recently:
-
-- Learn Docker, kubernetes, AWS, Swift...
-- Learn French (when passion becomes a must...)
-- Leetcode (so much pain)
-- Try my best to go to the gym at least one time a week
-
+- React, Next.js, React Native
+- Node.js
+- GraphQL
+- SQL & MongoDB
+- Angular
+- SwiftUI
+- Cloud Computing: AWS and Azure
+- C#, ASP.NET
+- Leetcode
+- French
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsp8412&layout=compact&hide=css,assembly&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
