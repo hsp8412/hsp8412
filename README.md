@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is He(何) Sipeng(斯鹏), or Steven.
+My name is Sipeng He. I also go by Steven.
 
 I'm a recent graduate from the University of Calgary, and I'm now looking for a full-time position as programmer or IT specialist.
 
