@@ -19,8 +19,6 @@ Things I'm passionate about:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsp8412&layout=compact&hide=css,assembly,jupyter%20notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsp8412&show_icons=true&theme=radical)
-
 
 <!--
 **hsp8412/hsp8412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
