@@ -14,6 +14,7 @@ Things I'm passionate about:
 - SwiftUI
 - Cloud Computing: AWS and Azure
 - C#, ASP.NET
+- Blue Prism & RPA
 - Leetcode
 - French
   
